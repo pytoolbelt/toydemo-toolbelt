@@ -1,0 +1,6 @@
+tool:
+  name: demo
+  version: "0.0.1"
+  ptvenv:
+    name: "boytoy"
+    version: "0.0.1"
