@@ -1,0 +1,7 @@
+name: boytoy
+version: "0.0.1"
+python_version: "3.10"
+requirements:
+    - pytoolbelt-toolkit==0.4.0
+    - python-dotenv==1.0.0
+    - requests==2.26.0
